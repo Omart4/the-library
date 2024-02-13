@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+    height:100%;
+    background-color: var(--purple);
+}
+h1{
+    font-size: 3rem;
+    color: white;
+}
